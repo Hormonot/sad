@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="logo">Angel-in-us</string>
+    <string name="title_activity_drink_category"></string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Songs</item>
+    </string-array>
+</resources>
